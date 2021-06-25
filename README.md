@@ -1,4 +1,4 @@
-how to ru this game on your pc?
+how to run this game on your pc?
 
 just clone this repository using command git clone http://github.com/djgupta820/hangman.git
 
